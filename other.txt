@@ -1,0 +1,11 @@
+
+pip install git+https://github.com/huggingface/lerobot.git@6674e368249472c91382eb54bb8501c94c7f0c56
+
+# 安装 ruff
+pip install ruff
+
+# 安装 pre-commit
+pip install pre-commit
+
+# 初始化 pre-commit 钩子
+pre-commit install
